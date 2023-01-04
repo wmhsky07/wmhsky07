@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wmhsky07
-- 👀 I’m interested in Quant trading on options strategy. Most likely on VIX and momentum
-- 🌱 I’m currently learning Finance and Risk Management
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Minghao Wu
+- 👀 I’m interested in Quant trading on options strategy. Most likely on VIX and momentum. I also tried some data analysing and mining. 
+- 🌱 I’m currently learning Finance and Risk Management.
+- 💞️ I’m looking for position of pricing analyst/quant analyst/financial analyst
 - 📫 How to reach me @ +1 2165330011
 
 <!---
